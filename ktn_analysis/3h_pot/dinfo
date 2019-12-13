@@ -1,0 +1,27 @@
+! PE
+DELTA 0.25
+FIRST 2.0
+LEVELS 40
+MINIMA min.data
+TS ts.data
+! MINIMA min.data.fastest.new
+! TS ts.data.fastest.new
+MAXTSENERGY 2.0D0
+
+! TRVAL 998 orderparam_new.dat
+TRVAL 998 op.dat
+TRVALRANGE -2. 2.
+TRVALSCALE
+SCALEBAR 0.
+
+NCONNMIN 0
+CENTREGMIN
+
+! CONNECTMIN 4
+
+IDMIN 22
+! IDMIN 807
+IDMIN 868
+
+! IDENTIFY
+LABELSIZE 10
