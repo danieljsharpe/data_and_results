@@ -1,0 +1,24 @@
+kmc_suite> reading keywords...
+keywords> finished reading keywords
+kmc_suite> reading input data files...
+kmc_suite> setting up the transition network data structure...
+ktn> constructing nodes and edges of transition network from vectors
+ktn> finished setting up transition network data structure
+kmc_suite> setting up simulation...
+kmc_suite> max. no. of A<-B paths: 20000 	max. iterations: 2147483647
+
+kmc_suite> time interval for dumping trajectory data: -1
+ktn> calculating branching probability matrix
+kps> running kPS with parameters:
+  lag time: -1 	max. no. of eliminated nodes: 5000
+  no. of basins: 2 	no. of kMC steps after kPS iteration: 0
+  adaptive definition of communities (y/n): 0
+  random seed: 66 	debug printing: 0
+kmc_suite> finished setting up simulation
+
+kps> beginning kPS simulation
+
+kps> kPS simulation terminated after 20000 kPS iterations. Simulated 20000 transition paths
+kmc_enhanced_methods> calculating transition path statistics
+kmc_enhanced_methods> writing transition path statistics to file
+kmc_suite> finished, exiting program normally

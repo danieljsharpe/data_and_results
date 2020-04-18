@@ -1,0 +1,6 @@
+# estimated MFPTs from kPS simulation data
+# temperature / MFPT / std err
+0.075    3.465109E+17    0.024727E+17
+0.100    2.782651E+12    0.019829E+12
+0.125    2.799377E+09    0.059373E+09
+0.150    2.971711E+07    0.020891E+07
