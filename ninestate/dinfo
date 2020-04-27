@@ -8,8 +8,10 @@ TS ts.data
 
 ! TRVAL 994 min.pos.y
 ! TRVALRANGE -1.4 1.4
-TRVAL 994 committor_AB.dat
-TRVALRANGE 0. 1.
+! TRVAL 994 committor_AB.dat
+! TRVALRANGE 0. 1.
+TRVAL 994 communities_bace.dat
+TRVALRANGE 0 11
 TRVALSCALE
 SCALEBAR 0.
 
