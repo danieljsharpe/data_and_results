@@ -1,0 +1,39 @@
+discotress> reading keywords...
+keywords> finished reading keywords
+discotress> simulating a continuous-time Markov chain
+discotress> reading input data files...
+discotress> simulating trajectories of time length: 5e+11   for dimensionality reduction
+discotress> setting up the transition network data structure...
+ktn> constructing nodes and edges of transition network from vectors
+ktn> finished setting up transition network data structure
+discotress> no. of nodes: 994   in A: 0 in B: 0
+discotress> no. of edges: 4320      no. of communities: 9
+discotress> setting up the object to propagate individual trajectories...
+ktn> calculating branching probability matrix
+kps> kPS parameters:
+  lag time: -1 	max. no. of eliminated nodes: 5000
+  no. of basins: 9 	no. of kMC steps after kPS iteration: 20000
+  adaptive definition of communities (y/n): 0	min. allowed rate in adaptive communities: 0
+discotress> setting up the enhanced sampling wrapper object...
+dimredn> constructing DIMREDN class
+discotress> finished setting up simulation
+dimredn> beginning simulation to obtain trajectory data for dimensionality reduction
+dimredn> thread no.: 0  handling walker: 0
+dimredn> thread no.: 7  handling walker: 7
+dimredn> thread no.: 5  handling walker: 5
+dimredn> thread no.: 2  handling walker: 2
+dimredn> thread no.: 6  handling walker: 6
+dimredn> thread no.: 8  handling walker: 8
+dimredn> thread no.: 3  handling walker: 3
+dimredn> thread no.: 4  handling walker: 4
+dimredn> thread no.: 1  handling walker: 1
+dimredn> thread no.: 7 finished handling relevant walker
+dimredn> thread no.: 1 finished handling relevant walker
+dimredn> thread no.: 4 finished handling relevant walker
+dimredn> thread no.: 8 finished handling relevant walker
+dimredn> thread no.: 6 finished handling relevant walker
+dimredn> thread no.: 0 finished handling relevant walker
+dimredn> thread no.: 3 finished handling relevant walker
+dimredn> thread no.: 2 finished handling relevant walker
+dimredn> thread no.: 5 finished handling relevant walker
+discotress> finished, exiting program normally
